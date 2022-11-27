@@ -15,7 +15,7 @@ Dywan Sierpińskiego - Swing i AWT
 11. Composite
 12. Observer
 13. Subject
-14. addMouseListener(MouseListener I); addActionListener(ActionListener I)
+14. addMouseListener(MouseListener); addActionListener(ActionListener)
 15. MouseListener
 16. ActionListener
 17. ConcreteObserver
