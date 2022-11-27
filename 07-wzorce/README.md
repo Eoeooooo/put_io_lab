@@ -10,6 +10,7 @@ Strumienie
 9. ConcreteDecorator
 
 Dywan Sierpińskiego - Swing i AWT
+
 10. Composite
 11. Composite
 12. Observer
