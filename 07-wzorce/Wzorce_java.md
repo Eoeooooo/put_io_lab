@@ -12,11 +12,11 @@ Strumienie:
 
 Dywan Sierpińskiego - Swing i AWT
 
-10.Composite
-11.Composite
-12.Observator
-13.Subject
-14.addMouseListener(Mouse Listener); addActionListener(ActionListener)
-15.MouseListener
-16.ActionListener
-17.ConcreteObservator
+10. Composite
+11. Composite
+12. Observator
+13. Subject
+14. addMouseListener(Mouse Listener); addActionListener(ActionListener)
+15. MouseListener
+16. ActionListener
+17. ConcreteObservator
